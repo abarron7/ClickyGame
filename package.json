@@ -1,0 +1,32 @@
+{
+  "name": "clickygame",
+  "version": "1.0.0",
+  "description": "memory click game",
+  "main": "server.js",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abarron7/ClickyGame.git"
+  },
+  "author": "Alejandro Barron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abarron7/ClickyGame/issues"
+  },
+  "homepage": "https://github.com/abarron7/ClickyGame#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.2",
+    "gh-pages": "^1.2.0",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-scripts": "1.1.4",
+    "reactstrap": "^6.3.0"
+  }
+}
