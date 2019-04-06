@@ -19,12 +19,7 @@ User can restart game by clicking "Start Over" button. The app will reset all sc
   <li>Heroku</li>
 
 ## Live Demo
-  https://react-mario-game.herokuapp.com/
-
-## Video Demo
-![Image](http://i3.ytimg.com/vi/Ho1g_sPSFeE/hqdefault.jpg?raw=true) 
-
-https://youtu.be/Ho1g_sPSFeE
+  https://limitless-plains-15654.herokuapp.com/
 
 ## Screenshots
 ![Image of Home Page](https://github.com/rnguyen05/clicky-game/blob/master/images/MemoryChallengeGame.jpg?raw=true)
